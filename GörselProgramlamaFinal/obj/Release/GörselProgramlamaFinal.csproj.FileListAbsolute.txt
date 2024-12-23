@@ -1,0 +1,170 @@
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\GörselProgramlamaFinal.exe.config
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\GörselProgramlamaFinal.exe
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\GörselProgramlamaFinal.pdb
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.barcodes.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-adapter.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-connector.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.commons.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.forms.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.html2pdf.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.io.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.kernel.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.layout.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.pdfa.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.pdfua.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.sign.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.styledxmlparser.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.svg.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Newtonsoft.Json.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Buffers.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Data.OleDb.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Memory.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.ValueTuple.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.barcodes.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-adapter.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-connector.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.commons.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.forms.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.html2pdf.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.io.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.kernel.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.layout.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.pdfa.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.pdfua.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.sign.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.styledxmlparser.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\itext.svg.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\Newtonsoft.Json.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Buffers.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Data.OleDb.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Memory.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\bin\Release\System.ValueTuple.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.csproj.AssemblyReference.cache
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.AidatOde.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.BorcGöster.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Giris.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Etkinlik.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Duyuru.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.AnaMenu.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Liste.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeIslem.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.AidatTahsilat.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.EtkinlikDuyuru.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Properties.Resources.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeCikar.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeEkleGuncelle.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeListele.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.csproj.GenerateResource.cache
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.csproj.CoreCompileInputs.cache
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\G_rselPr.6E1E22FA.Up2Date
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.exe
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu - Kopya\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.pdb
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\GörselProgramlamaFinal.exe.config
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\GörselProgramlamaFinal.exe
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\GörselProgramlamaFinal.pdb
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.barcodes.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-adapter.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-connector.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.commons.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.forms.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.html2pdf.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.io.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.kernel.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.layout.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.pdfa.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.pdfua.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.sign.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.styledxmlparser.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.svg.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Newtonsoft.Json.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Buffers.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Data.OleDb.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Memory.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.ValueTuple.dll
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.barcodes.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-adapter.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.bouncy-castle-connector.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.commons.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.forms.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.html2pdf.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.io.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.kernel.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.layout.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.pdfa.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.pdfua.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.sign.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.styledxmlparser.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\itext.svg.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\Newtonsoft.Json.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Buffers.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Data.OleDb.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Memory.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\bin\Release\System.ValueTuple.xml
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.csproj.AssemblyReference.cache
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.AidatOde.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.BorcGöster.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Giris.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Etkinlik.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Duyuru.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.AnaMenu.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Liste.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeIslem.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.AidatTahsilat.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.EtkinlikDuyuru.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.Properties.Resources.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeCikar.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeEkleGuncelle.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.UyeListele.resources
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.csproj.GenerateResource.cache
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.csproj.CoreCompileInputs.cache
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\G_rselPr.6E1E22FA.Up2Date
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.exe
+C:\Users\ERAY OKUKLU\Desktop\görselproje\Eray-Okuklu-1\GörselProgramlamaFinal\obj\Release\GörselProgramlamaFinal.pdb
